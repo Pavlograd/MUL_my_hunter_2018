@@ -5,7 +5,7 @@
 ## makefile
 ##
 
-SRC	=	./c/ma.c			\
+SRC	=	./c/main.c			\
 		./c/events.c			\
 		./c/value.c			\
 		./c/create_close_destroy.c	\
